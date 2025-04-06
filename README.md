@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 🦆
+
+- 🌱 I’m currently learning Full Stack Development
+- 📫 How to reach me: adrianestevezsalamanca@gmail.com
 
 <!--
 **Adr1Est/Adr1Est** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
