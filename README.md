@@ -7,11 +7,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adr1est&layout=compact&theme=merko)
 
 ### Tools
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js)
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,vite,nodejs,npm,jest)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,react,redux,vite)
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bootstrap,tailwindcss)\
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=api,postman,insomnia,git,github,vscode)\
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=netlify,vercel)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,flask,nodejs,express,api,postman,insomnia,git,github,vscode)\
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=netlify,vercel,render,docker)
 
 ### Other tools
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=davinci,premiere,excel,notion,slack)
