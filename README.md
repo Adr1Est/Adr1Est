@@ -6,7 +6,7 @@
 <div align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adr1est&show_icons=true&theme=merko#gh-dark-mode-only" alt="Adr1Est's GitHub stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adr1est&layout=compact&theme=merko" alt="Adr1Est's Top Languages"/>
-  <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Adr1Est&repo=Adr1Est&countColorcountColor&countColor=%23bdde02"/>
+  <img align="left" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Adr1Est&repo=Adr1Est&countColorcountColor&countColor=%23bdde02"/>
 </div>
 
 ### 🌠Currently working on
