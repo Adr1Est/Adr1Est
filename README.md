@@ -1,6 +1,6 @@
 ## Hi there! 🦆
 
-- 🌱 I’m Adrián, Full Stack Developer in training, passionate about building interactive and efficient web applications.
+- 🌱 I’m Adrián, Full Stack Developer, passionate about building interactive and efficient web applications.
 - 📫 How to reach me: adrianestevezsalamanca@gmail.com
 
 <div align="left">
