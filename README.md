@@ -14,7 +14,7 @@
 
 ---
 
-### 🌠Currently working on
+### 🌠 Currently working on
 [![AstroRadar's Repo](https://github-readme-stats.vercel.app/api/pin/?username=Sofiaivars&repo=AstroRadar&theme=merko)](https://github.com/Sofiaivars/AstroRadar)
 
 ---
