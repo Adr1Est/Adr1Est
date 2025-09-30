@@ -20,7 +20,7 @@
 ---
 
 ### ⛏ Tech Stack
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,react,redux,vite)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,typescript,react,redux,vite)
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bootstrap,tailwindcss)\
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,flask,nodejs,express,api,postman,insomnia,git,github,vscode)\
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=netlify,vercel,render,docker)
