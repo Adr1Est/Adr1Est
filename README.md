@@ -20,7 +20,7 @@
 ---
 
 ### 🖥️ Front-end
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,typescript,react,redux,vite,lit,angular)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,typescript,react,nextjs,redux,vite,lit,angular)
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bootstrap,tailwindcss,chartjs)
 
 ### 😶‍🌫️ Back-end
