@@ -24,7 +24,7 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bootstrap,tailwindcss,chartjs)
 
 ### 😶‍🌫️ Back-end
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,flask,nodejs,express,api,postman,insomnia,)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,flask,nodejs,express,sqlalchemy,prisma,api,postman,insomnia,)
 
 ### 🚀 Deploy
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=netlify,vercel,render,docker)
