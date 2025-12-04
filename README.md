@@ -17,6 +17,7 @@
 ### 🌠 Currently working on
 [![dailyinsight's Repo](https://github-readme-stats.vercel.app/api/pin/?username=Adr1Est&repo=daily-insight&theme=merko)](https://github.com/Adr1Est/daily-insight)
 [![AstroRadar's Repo](https://github-readme-stats.vercel.app/api/pin/?username=Sofiaivars&repo=AstroRadar&theme=merko)](https://github.com/Sofiaivars/AstroRadar)
+[![AstroRadar API's Repo](https://github-readme-stats.vercel.app/api/pin/?username=Sofiaivars&repo=astroradar-api&theme=merko)](https://github.com/Sofiaivars/astroradar-api)
 
 ---
 
