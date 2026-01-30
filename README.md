@@ -21,15 +21,18 @@
 
 ---
 
+### Main Stack
+
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=typescript,react,nextjs,tailwind,css,zustand,tanstack,nodejs,express,prisma)
+
 ### 🖥️ Front-end
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,typescript,react,nextjs,redux,zustand,tanstack,vite,lit,angular)
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bootstrap,tailwindcss,chartjs)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=js,redux,vite,lit,angular,bootstrap,chartjs)
 
 ### 😶‍🌫️ Back-end
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,flask,nodejs,express,sqlalchemy,prisma,api,postman,insomnia,)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,flask,sqlalchemy,api,postman,insomnia,)
 
-### 🚀 Deploy
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=netlify,vercel,render,docker)
+### 🚀 CI/CD
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,netlify,vercel,render,docker)
 
 ### ⛏️ Other tools
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,davinci,premiere,excel,notion,slack)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,davinci,premiere,excel,notion,slack)
